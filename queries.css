@@ -1,12 +1,14 @@
 @media (max-width : 770px) {
     *{
         font-size: 7.5px;
-        /* background-color: blue; */
     }
     .nav ul{
         display: none;
         
     
+    }
+    #contact{
+        height: 350px;
     }
 main{
     height: 40vh;
@@ -57,4 +59,5 @@ main{
     .hidden{
         transition: none;
     }
+
 }

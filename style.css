@@ -18,7 +18,8 @@ body{
 
     width: 100vw;
     height: 13vh;
-    position:absolute;
+    position:sticky;
+    top: 0px;
     background-color: #18181c;
     display: flex;
     justify-content: flex-end;
@@ -45,10 +46,11 @@ body{
 
 .nav-item{
     font-size: 1.8rem;
-    font-weight: 400;
+    font-weight: 500;
     color: #CCD6F6;
     text-decoration: none;
     transition: all 0.5s;
+    
   
 }
 
@@ -100,12 +102,12 @@ h1{
 }
 
 .hero-text-box{
-
-    height: 100vh;
+    /* background-color: red; */
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 13vh;
+    margin-top: 20vh;
 }
 #heading-primary{
     /* background-color: red; */
@@ -144,7 +146,7 @@ h1{
     
     width: 100vw;
     height: 100%;
-    margin-top: 7.5rem;
+    margin-top: 20rem;
    display: flex;
    flex-direction: column;
    align-items: center;
