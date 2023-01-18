@@ -270,3 +270,10 @@ h1,h2,h3{
     /* letter-spacing: 4px; */
 }
 
+.logo-text{
+    color: white;
+    font-size: 2.4rem;
+    /* font-family: 'Merriweather', serif; */
+    font-family: 'Lora', serif;
+    letter-spacing: 1px;
+}
