@@ -1,25 +1,25 @@
 @media (max-width : 770px) {
     *{
         font-size: 7.5px;
+        margin: 0;
+        padding: 0;
     }
     .nav ul{
         display: none;
         
-    
+    }
+    h1{
+        font-size: 20px;
+    }
     }
     #contact{
         height: 350px;
     }
-main{
-    height: 40vh;
-}
+
     .sidebar{
         display: none;
     }
 
-    #heading-primary{
-
-    }
     .btn-container{
         margin-top: 3rem;
         height: 3vh;
@@ -61,3 +61,4 @@ main{
     }
 
 }
+

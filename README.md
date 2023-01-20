@@ -1,9 +1,9 @@
 
 This is my official website.
 * Link to my site : https://pravesharyal.com.np
+PS: The site is not responsive.
 
-
-
+BG color: #0f151b
 
 BRIGHT GREEN : #64FFDA
 NAV COLOR : #18181c;
