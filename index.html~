@@ -72,7 +72,7 @@
 	    <p class="hero-description hidden" id="hero-description">IT enthusiast with expertise in system administration, networking, and troubleshooting </p>
 	    <p class="hero-description hidden" id="hero-description">Skilled in Windows, Linux, Active Directory, and virtualization, ensuring secure and efficient IT operations.</p>
             <div class="btn-container hidden" id="btn-container">
-                <a href = "#container-projects"id="btn-projects" class="btn-projects">See my projects!</a>
+                <a href = "#container-projects"id="btn-projects" class="btn-projects">See my Crafts!</a>
             </div>
         </section>
 
@@ -92,9 +92,9 @@
         </div>
         <div class="project-box hidden" id="project1">
             <div class="project-info">
-                <h2 id="project-title">Guess the number</h2>
-                <p id="tech-used">HTML,CSS & JS</p>
-                <p class="project-description">A simple guessing game that I made to improve my skills on JS.</p>
+                <h2 id="project-title">Network and System deployment</h2>
+                <p id="tech-used">ADDC, VMWare, CML, DNS, SQL, Group Policy</p>
+                <p class="project-description">We took both the Systems and Networking and made them work together. Starting with the diagrams (Systems and Networking), addressing tables, and case study requirements. We were able to prepare, plan, design, implement, operate, and optimize (PPDIOO). With advanced security. Building an ADDC solution With a redundant, scalable, reliable and secure network IT infrastructure for the Case Study, Medic Networks.</p>
                 <div class="btns-project" id="btns-project">
                     <a target="_blank" href="https://krishnassecla.github.io/guess_the_number/" id="btn-project">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
