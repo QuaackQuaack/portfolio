@@ -1,4 +1,6 @@
 
 This is my official website.
-* Link to my site : https://pravesharyal.com.np
-PS: The site is not responsive.
+* Link to my site : https://quaackquaack.github.io/portfolio/
+
+
+P.S. Design credit goes to my friend @Pravesh_Aryal. 
