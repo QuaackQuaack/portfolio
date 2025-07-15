@@ -80,7 +80,7 @@
     <section class="about" id="about">
         <h1>More about me</h1>
         <div class="container-me">
-        <img class="img-me" src="./assets/img/me.png" alt="">
+        <img class="img-me" src="./assets/img/me.jpg" alt="">
     </div>
     <p class="about-description"> A creative IT professional connecting technical solutions with user-centric design. My passion for technology drives my specialization in system administration for both Windows Server and Unix platforms. With knowledge of Azure fundamentals and core services like DHCP and DNS, I apply ITIL methodologies to efficiently troubleshoot and resolve tickets in systems. I thrive on the challenge of building and optimizing versatile IT environments for peak performance</p>
     </section>
@@ -136,23 +136,21 @@
             style="height : 1px;width: 10%; background-color: #64FFDA;margin-top: 10px; display:inline">
         </div>
         <br><br><br><br><br><br>
-        <h2 style="    font-size: 4.8rem;
-        font-weight: 700;
-        color: #CCD6F6;
-    ">Let's talk about Everything! </h2>
-	<p id="tech-used">
-	Want to talk on mail?<a href="mailto:iamarjunkharal@gmail.com">click.</a>
-	</p>
+        <h2 style="font-size: 4.8rem;
+		   font-weight: 700;
+		   color: #CCD6F6;">
+		Let's talk about Everything! </h2>
 	<div class="btn-contact hidden">
-            <a target="_blank"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSdW0tlh0MH-5IKpUCS3mwBPeD5tHSOF76wpQizLPhoxYs0sUg/viewform?usp=sf_link"
-                id="">Let's Talk</a>
-        </div>
-
+		            <a target="_blank"
+			       href="https://forms.gle/gZGZeZQytmQqcMUMA" id="">Let's Talk</a>
+			            </div>
+	<p id="tech-used">
+	Want to talk on mail?
+	<a href="mailto:iamarjunkharal@gmail.com"> Click.</a>
+	</p>
     </section>
-
-    <footer class="footer">
-        <p>Designed && Developed by Pravesh.</p>
+        <footer class="footer">
+        <p>Thank you for Visiting.</p>
     </footer>
 </body>
     <script src="./assets/js/script.js"></script>

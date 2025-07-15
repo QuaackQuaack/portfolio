@@ -198,6 +198,20 @@ p#tech-used{
     font-size: 1.6rem;
     font-weight: 500;
 }
+p#tech-used a{
+    margin-top: 2rem;
+    color: #00bfff;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+
+p#form-variable{
+    margin-top: 2rem;
+    color: #00bfff;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
 
 p.project-description{
     margin-top: 2rem;
