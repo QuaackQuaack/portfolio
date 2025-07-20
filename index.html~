@@ -72,7 +72,7 @@
 	    <p class="hero-description hidden" id="hero-description">IT enthusiast with expertise in system administration, networking, and troubleshooting </p>
 	    <p class="hero-description hidden" id="hero-description">Skilled in Windows, Linux, Active Directory, and virtualization, ensuring secure and efficient IT operations.</p>
             <div class="btn-container hidden" id="btn-container">
-                <a href = "#container-projects"id="btn-projects" class="btn-projects">See my Crafts!</a>
+                <a href = "#container-projects" id="btn-projects" class="btn-projects">See my Crafts!</a>
             </div>
         </section>
 
@@ -80,7 +80,7 @@
     <section class="about" id="about">
         <h1>More about me</h1>
         <div class="container-me">
-        <img class="img-me" src="./assets/img/me.jpg" alt="">
+        <img class="img-me" src="./assets/img/me.jpg" alt="" style="width:50%" >
     </div>
     <p class="about-description"> A creative IT professional connecting technical solutions with user-centric design. My passion for technology drives my specialization in system administration for both Windows Server and Unix platforms. With knowledge of Azure fundamentals and core services like DHCP and DNS, I apply ITIL methodologies to efficiently troubleshoot and resolve tickets in systems. I thrive on the challenge of building and optimizing versatile IT environments for peak performance</p>
     </section>
